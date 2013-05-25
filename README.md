@@ -4,12 +4,10 @@ Arduino - Knight Rider
 Arduino project - Knight Rider leds with theme song 
 
 # Circuit
-========== 
 
 Soon 
 
 # Photos and Videos
-==================
 
 ### Video on youtube 
 
