@@ -5,7 +5,7 @@ Arduino project - Knight Rider leds with theme song
 
 # Circuit
 
-Soon 
+![Breadboard ](pics/arduino-knight_rider-breadboard.png "Breadboard")
 
 # Photos and Videos
 
